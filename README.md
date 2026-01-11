@@ -1,4 +1,4 @@
-[![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
+bana tiktok jeton hilesi yazılım ver 
 
 ## Build your own &lt;insert-technology-here&gt;
 
